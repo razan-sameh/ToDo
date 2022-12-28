@@ -1,2 +1,2 @@
 # ToDo Application
-Program to record the task that you want to finish by using Html, Css ,JS
+ToDo Application is record the tasks that you want to finish it by using Html, Css ,JS
