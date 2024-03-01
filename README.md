@@ -12,7 +12,7 @@ Technologies Used:
 
 ## Frontend: 
 - HTML, CSS, JavaScript
-- 
+
 ## Storage:
 - LocalStorage API for data persistence
 
