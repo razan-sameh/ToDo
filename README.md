@@ -12,8 +12,9 @@ Technologies Used:
 
 ## Frontend: 
 - HTML, CSS, JavaScript
+- 
 ## Storage:
 - LocalStorage API for data persistence
-- 
+
 ##
 Open demo from [here](https://todo-application-560ae.web.app/)
